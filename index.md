@@ -21,5 +21,6 @@ These mods tweak various aspects of the game to match my preference:
 These mods are still in development:
 
 - [**test_clubs.package**](/mods/test_clubs): Short description here
+- [test_clubs.package](./mods/test_clubs): Short description here
 
 Enjoy the mods and happy Simming!

@@ -4,8 +4,6 @@ title: Welcome to Enkidu Mods
 
 ## Welcome to Enkidu Mods! ##
 
-Hello, I'm Enkidu, a passionate Sims 4 player and modder. This page is a collection of my smaller mods that I've created to enhance my own Sims 4 gaming experience. Some are recent fixes, others are tweaks I've used for years, and a few are works in progress with some functioning features. While these mods are pulled directly from my in-game Mods folder and may be unfinished or contain bugs, you're welcome to download and explore them at your own discretion. Enjoy the mods and happy Simming!
-
 ### Fixes ###
 
 These mods fix various, hopefully temporary, issues in the game:
